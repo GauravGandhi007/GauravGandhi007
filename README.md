@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Gandhi
 - 👀 I’m interested in Frontend Devlopment.
-- 🌱 I’m currently learning ReactJs,Java Script,HTML,CSS. 
+- 🌱 I’m currently learning ReactJs,Java Script,HTML,CSS,TailWind CSS. 
 - 💞️ I’m looking to collaborate on IT-Companies.
 - 📫 How to reach me (www.linkedin.com/in/gaurav-gandhi-b0a797248)
 
